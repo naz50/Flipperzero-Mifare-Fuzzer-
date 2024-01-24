@@ -3,7 +3,7 @@ Flipperzero Mifare Fuzzer/WordList mifare classic 4k
 
 # What is it?
 Generating fake Mifare UIDs with this tool. It can emulate either UIDs or whole cards from your Flipper's storage.
-Here, i utilized (Classic 4k) card type.
+/n Here, i utilized (Classic 4k) card type.
 # Install
 # FBT
 1.	Checkout the Flipperzero firmware
