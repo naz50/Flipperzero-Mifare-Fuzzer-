@@ -12,7 +12,7 @@ Here, i utilized (Classic 4k) card type.
 3.	git clone this repo inside directory
 4.	Return to main firmware directory with cd ../..
 5.	Run fbt fap_mifare_fuzzer to compile
-# uFBT (no firmware required)
+# uFBT (Firmware not needed)
 1.	Install uFBT
 2.	Open your application's directory in Terminal
 3.	Deploy the application's to your Flipper with ufbt launch
