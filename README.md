@@ -1,10 +1,10 @@
 # Flipperzero-Mifare-Fuzzer-
 Flipperzero Mifare Fuzzer/WordList mifare classic 4k
 
-## What is it?
+# What is it?
 Generating fake Mifare UIDs with this tool. It can emulate either UIDs or whole cards from your Flipper's storage.
 Here, i utilized (Classic 4k) card type.
-## Install
+# Install
 # FBT
 1.	Checkout the Flipperzero firmware
 2.	Go to applications/plugins/
@@ -15,6 +15,6 @@ Here, i utilized (Classic 4k) card type.
 1.	Install uFBT
 2.	Open your application's directory in Terminal
 3.	Deploy the application's to your Flipper with ufbt launch
-## License
+# License
 https://en.wikipedia.org/wiki/WTFPL 
 
