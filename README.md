@@ -1,4 +1,4 @@
-# Flipperzero-Mifare-Fuzzer-
+# Flipperzero Mifare Fuzzer
 Flipperzero Mifare Fuzzer/WordList mifare classic 4k
 
 # What is it?
